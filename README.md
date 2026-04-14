@@ -11,6 +11,20 @@ Original frameworks, methodologies, and research outputs from the Núcleo de IA 
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing, reviewing, and publishing frameworks.
 
-## Published Frameworks
+## Frameworks
 
-*No frameworks published yet. The first pilot (EAA — Engenharia de Agentes Autônomos) is in development by Tribo 2.*
+| Framework | Tribe | Status | Lead |
+|-----------|-------|--------|------|
+| [EAA — Engenharia de Agentes Autonomos](eaa/) | Tribo 2 | Draft (in development) | Debora Moura |
+
+## Structure
+
+Each framework lives in its own directory:
+
+```
+framework-name/
+  README.md       Overview, citation, status
+  docs/           Documentation (CC-BY-SA 4.0)
+  examples/       Reference implementations (MIT)
+  references/     Comparative reviews and bibliography
+```
