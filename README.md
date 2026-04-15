@@ -15,7 +15,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing, reviewing, a
 
 | Framework | Tribe | Status | Lead |
 |-----------|-------|--------|------|
-| [EAA — Engenharia de Agentes Autonomos](eaa/) | Tribo 2 | Draft (in development) | Debora Moura |
+| EAA — Engenharia de Agentes Autônomos | Tribo 2 | In development (not yet published) | Débora Moura |
+
+> Frameworks are published here when the responsible tribe approves public release.
 
 ## Structure
 
