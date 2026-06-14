@@ -60,6 +60,21 @@ competing**: your training/audience *feeds into* PMI credentials, it does not su
 - **Low-friction entry, ambitious frame:** start informal (no signature), formalize via MOU then contract when
   value is proven; keep the narrative "build something big", not "start small".
 
-## 6. Sources (PMI public materials)
+## 6. Posicionamento reutilizável + ponto de conexão de parceiros
+**Posicionamento (headline) — cristalizado numa conversa real de parceria (ALUN/Kruel, jun/2026):** apresente o
+núcleo/capítulo como uma **iniciativa FEDERADA de Communities of Practice (CoP) para mudar cultura e avançar o
+ecossistema de transformação digital na era pós-IA** — em organizações e na educação. CoP é linguagem do PRÓPRIO
+PMI (ex.: `pmi.org/learning/library/communities-practice-advancing-ways-people-together-7840`). Federada sob o
+**capítulo-sede** (ex.: PMI-GO). Esse framing é mais institucional e durável que "núcleo de IA" e serve a qualquer
+pitch de entidade. Lição: o melhor posicionamento muitas vezes se cristaliza na conversa com o parceiro -> capturar
+de volta no acervo (e no produto).
+
+**Ponto de conexão de parceiros (princípio de produto, candidato a backlog):** o site/plataforma do capítulo deve
+ter um **ponto de contato claro e único para parceiros** (prospectivos e ativos) - tipo "seja parceiro / fale com o
+programa de parcerias" - como entrada de primeiro contato, seguindo as boas práticas e **diretrizes de parceria do
+PMI Global** e **respeitando o capítulo-sede** como dono da relação. Reduz fricção de inbound e canaliza para o
+processo (Need ID -> Due Diligence -> ... do §2). É feature de produto (não de pitch); levar ao backlog do ciclo.
+
+## 7. Sources (PMI public materials)
 PMI Chapter Partnerships Framework (Aug 2024) · PMI:Next overview · PMI "Delivering M.O.R.E." (2025) ·
 PMI:Next "in a Page". See the private wiki for deal-specific applications and the working notes.
